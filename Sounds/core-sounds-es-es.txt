@@ -1,0 +1,54 @@
+; Core Asterisk Sounds in Spanish (Español)
+; Generated using Piper TTS (es_ES-davefx-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 49
+;
+activated: Activado.
+added: Añadido.
+all-circuits-busy-now: Todas las líneas están ocupadas en este momento.
+astcc-followed-by-the-pound-key: seguido de la tecla almohadilla.
+call-forwarding: Desvío de llamadas.
+call-fwd-no-ans: Desvío de llamadas si no contesta.
+call-fwd-on-busy: Desvío de llamadas si está ocupado.
+call-fwd-unconditional: Desvío incondicional de llamadas.
+call-waiting: Llamada en espera.
+cancelled: Cancelado.
+cannot-complete-as-dialed: Su llamada no puede ser completada tal como ha sido marcada.
+check-number-dial-again: Por favor, compruebe el número y marque de nuevo.
+conf-full: La conferencia está llena.
+confbridge-begin-leader: la conferencia comenzará cuando llegue el organizador.
+de-activated: Desactivado.
+digits/1n: uno
+digits/2f: dos
+digits/2n: dos
+digits/billion: mil millones
+disabled: Desactivado.
+do-not-disturb: No molestar.
+enabled: Activado.
+enter-num-blacklist: Por favor, introduzca el número que desea añadir a la lista negra.
+entr-num-rmv-blklist: Por favor, introduzca el número que desea eliminar de la lista negra.
+letters/aa: a, a.
+letters/ww: doble u
+number: Número.
+number-not-answering: El número no contesta.
+one-moment-please: Un momento, por favor.
+phone: Teléfono.
+phonetic/k_p2: kilo
+pls-hold-while-try: Por favor, espere mientras intentamos conectar su llamada.
+pls-try-call-later: Por favor, intente llamar más tarde.
+queue-minutex1: minuto
+queue-minutex2: minutos
+removed: Eliminado.
+simul-call-limit-reached: Se ha alcanzado el límite de llamadas simultáneas.
+telephone-number: Número de teléfono.
+to-call-this-number: Para llamar a este número.
+to-extension: A la extensión.
+to-listen-to-it: Para escucharlo.
+to-rerecord-it: Para volver a grabarlo.
+vm-enter-num-to-call: Por favor, introduzca el número al que desea llamar.
+vm-goodbye: Adiós.
+vm-intro: Por favor, deje su mensaje después del tono. Cuando termine, cuelgue o pulse la tecla almohadilla.
+vm-received: recibido
+with: con
+you-entered: Usted ha introducido.
+your: Su.
