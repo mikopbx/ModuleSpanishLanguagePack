@@ -20,9 +20,8 @@ Complete Spanish language pack for MikoPBX including UI translations and voice p
 
 ## TTS Attribution
 
-Most voice prompts come from the official Asterisk Spanish sound set. To cover prompts that
-are missing from the upstream Asterisk distribution, the corresponding files were generated
-with neural TTS (Text-to-Speech):
+All voice prompts in this pack are generated with neural TTS (Text-to-Speech) to provide a
+consistent peninsular Spanish voice across the full set of MikoPBX system sounds:
 
 - **Engine**: [Piper TTS](https://github.com/rhasspy/piper)
 - **Voice model**: `es_ES-davefx-medium` (peninsular Spanish)
